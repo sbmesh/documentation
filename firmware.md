@@ -11,7 +11,7 @@ Currently supported devices:
 ### Requirements
 
 - NanoStation M5 (XW) w/ airOS downgraded to v5.5.10
-- VM or build environment similar to the [Vagrantfile](https://github.com/sbmesh/documentation/Vagrantfile) in this repo
+- VM or build environment similar to the [Vagrantfile](https://github.com/sbmesh/documentation/blob/master/Vagrantfile) in this repo
 
 
 ### Preparing the environment
@@ -35,4 +35,4 @@ The image suffixed with `factory` is for fresh installations of LibreMesh from A
 
 ## Flash Instructions
 
-[Guide for flashing the NanoStation M5](https://github.com/sbmesh/documentation/flashing.md)
+[Guide for flashing the NanoStation M5](https://sbmesh.net/join.html#diy)
